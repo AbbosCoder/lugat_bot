@@ -1,5 +1,5 @@
-TOKEN = '6676186701:AAGGL45BZungeQmZcGKLXQ6YFFUuVQPzj28'
+TOKEN = ''
 
-admin_id = '762725479'
+admin_id = '1'
 
-ADMINS = ['762725479']
+ADMINS = ['1']
